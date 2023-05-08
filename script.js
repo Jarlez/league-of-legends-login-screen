@@ -82,5 +82,5 @@ function fecharModal() {
 const myButton = document.getElementById("active__button");
 
 myButton.addEventListener("click", function() {
-  alert("Não achou que iria entrar no jogo né? hahahahaha... Mas Relaxa campeão, suas informações não foram guardadas pois esse projeto não tem tratamento de dados (quem sabe em um futuro próximo não é mesmo?), e convenhamos né? você apenas apertou varios botões do seu teclado aleatoriamente também \u{1F600} ");
+  alert("Não achou que iria entrar no jogo né? hahahahaha... Mas Relaxa campeão, suas informações não foram guardadas pois esse projeto não armazena dados (quem sabe em um futuro próximo), e convenhamos né? você apenas apertou varios botões do seu teclado aleatoriamente também para preencher os campos \u{1F600} ");
 });

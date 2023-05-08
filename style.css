@@ -120,7 +120,7 @@ main {
   position: absolute;
   margin: 0px 310px;
   cursor: pointer;
-  top: 39%;
+  top: 366px;
   transform: translateY(-55%);
   width: 30px;
   height: 30px;
@@ -284,7 +284,7 @@ main {
 }
 
 .buttons__profile img {
-  width: 25px;
+  width: 23px;
 }
 
 .buttons__profile {
@@ -316,3 +316,4 @@ main {
   background-position: center;
   flex: 1;
 }
+
